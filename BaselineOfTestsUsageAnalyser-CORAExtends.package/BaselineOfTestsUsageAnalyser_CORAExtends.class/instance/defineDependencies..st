@@ -8,7 +8,6 @@ defineDependencies: spec
 	spec
 		baseline: 'CORA-Calypso'
 		with: [ spec
-				baseline: 'CORA';
 				repository: 'github://badetitou/CORA/repository';
 				loads: 'calypso' ].
 	spec

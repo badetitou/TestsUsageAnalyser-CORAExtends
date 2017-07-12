@@ -6,6 +6,6 @@ baseline: spec
 		do: [ self defineDependencies: spec.
 			spec
 				repository: 'github://badetitou/TestsUsageAnalyser-CORAExtends';
-				package: 'TestsUsageAnalyserCORAExtends';
-				group: 'default' with: #('CORA' 'TestsUsageAnalyser');
+				package: 'TestsUsageAnalyser-CORAExtends';
+				group: 'default' with: #('CORA' 'TestsUsageAnalyser' 'TestsUsageAnalyser-CORAExtends');
 				group: 'calypso' with: #('default' 'CORA-Calypso')  ]
