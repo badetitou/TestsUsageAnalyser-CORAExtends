@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CORAIconFabric",
+	"category" : "TestsUsageAnalyser-CORAExtends",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CORASpyIconFabric",
+	"type" : "normal"
+}

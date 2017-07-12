@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TUATestsSender",
+	"category" : "TestsUsageAnalyser-CORAExtends",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CORASpyTUATestsSender",
+	"type" : "normal"
+}
