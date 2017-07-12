@@ -3,12 +3,11 @@ defineDependencies: spec
 	spec
 		baseline: 'CORA'
 		with: [ spec
-				repository: 'github://badetitou/CORA/repository';
-				loads ].
+				repository: 'github://badetitou/CORA/'].
 	spec
 		baseline: 'CORA-Calypso'
 		with: [ spec
-				repository: 'github://badetitou/CORA/repository';
+				repository: 'github://badetitou/CORA/';
 				loads: 'calypso' ].
 	spec
 		configuration: 'TestsUsageAnalyser'
