@@ -1,14 +1,8 @@
 baselines
 defineDependencies: spec
+	spec baseline: 'CORA' with: [ spec repository: 'github://badetitou/CORA/' ].
 	spec
-		baseline: 'CORA'
-		with: [ spec
-				repository: 'github://badetitou/CORA/'].
-	spec
-		baseline: 'CORA-Calypso'
-		with: [ spec
-				repository: 'github://badetitou/CORA/';
-				loads: 'calypso' ].
+		project: 'CORA-Calypso' copyFrom: 'CORA' with: [ spec loads: #('calypso') ].
 	spec
 		configuration: 'TestsUsageAnalyser'
 		with: [ spec
