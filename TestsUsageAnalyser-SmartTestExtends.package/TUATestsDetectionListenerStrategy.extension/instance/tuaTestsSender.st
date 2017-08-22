@@ -1,3 +1,3 @@
 *TestsUsageAnalyser-SmartTestExtends
 tuaTestsSender
-	^ testSender ifNil: [ testSender := CORASpyTUATestsSender new ]
+	^ testSender ifNil: [ testSender := SmTSpyTUATestsSender new ]
