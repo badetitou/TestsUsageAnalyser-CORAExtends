@@ -5,4 +5,4 @@ development: spec
 	spec for: #'common' do: [
   		spec
 			baseline: 'TestsUsageAnalyserSmartTestExtends'
-			with: [ spec repository: 'github://badetitou/TestsUsageAnalyser-CORAExtends:developement' ] ]
+			with: [ spec repository: 'github://badetitou/TestsUsageAnalyser-SmartTestExtends:developement' ] ]
