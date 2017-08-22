@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "CORAIconFabric",
+	"super" : "SmTIconFabric",
 	"category" : "TestsUsageAnalyser-SmartTestExtends",
 	"classinstvars" : [ ],
 	"pools" : [ ],
