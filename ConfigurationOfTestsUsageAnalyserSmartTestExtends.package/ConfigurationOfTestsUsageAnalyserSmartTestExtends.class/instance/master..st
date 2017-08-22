@@ -4,5 +4,5 @@ master: spec
 	
 	spec for: #'common' do: [
   		spec
-			baseline: 'TestsUsageAnalyserSmartTest'
-			with: [ spec repository: 'github://badetitou/TestsUsageAnalyser-CORAExtends' ] ]
+			baseline: 'TestsUsageAnalyserSmartTestExtends'
+			with: [ spec repository: 'github://badetitou/TestsUsageAnalyser-CORAExtends:master' ] ]
