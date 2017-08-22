@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TUATestsSender",
+	"category" : "TestsUsageAnalyser-SmartTestExtends",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SmTSpyTUATestsSender",
+	"type" : "normal"
+}
