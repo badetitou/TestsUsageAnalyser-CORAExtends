@@ -5,5 +5,5 @@ initializePresenter
 	button
 		action: [ self testList getList
 				withIndexDo: [ :el :id | 
-					TUATestTools setByCORARunAllButton.
+					TUATestTools setBySmTRunAllButton.
 					SmTRunnerSettings runner runCase: el notifyIcon: (self icons at: id) ] ]

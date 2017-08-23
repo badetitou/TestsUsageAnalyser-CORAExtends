@@ -1,4 +1,4 @@
 *TestsUsageAnalyser-SmartTestExtends
-setByCORAMethodSelection
+setBySmT
 	"comment stating purpose of message"
-	Type := #byCORAMethodSelection
+	Type := #bySmT

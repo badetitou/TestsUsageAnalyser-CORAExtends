@@ -1,4 +1,4 @@
 *TestsUsageAnalyser-SmartTestExtends
-setByCORAGeneralButton
+setBySmTMethodSelection
 	"comment stating purpose of message"
-	Type := #byCORAGeneralButton
+	Type := #bySmTMethodSelection
